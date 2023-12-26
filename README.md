@@ -27,3 +27,12 @@
  <br />
 
 ## ScreenShots / Movie
+
+
+<img width="550" alt="image" src="https://github.com/Gabriel-Jesusvix/Shopping-t-shirt/assets/62946928/2e80c4a4-9c4c-4ed4-ae21-8b9d685cfa66">
+
+<img width="550" alt="image" src="https://github.com/Gabriel-Jesusvix/Shopping-t-shirt/assets/62946928/09929489-9c97-4efe-b8e5-c501d152714a">
+
+![T-shirt](https://github.com/Gabriel-Jesusvix/Shopping-t-shirt/assets/62946928/b049544a-fcac-40de-b9d0-61bd67e4db70)
+
+
